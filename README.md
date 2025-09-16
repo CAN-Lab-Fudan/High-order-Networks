@@ -1,1 +1,1 @@
-# High-order-Networks
+# Higher-order-Networks
