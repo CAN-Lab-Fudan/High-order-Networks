@@ -85,5 +85,5 @@ Follow these steps to run the tool:
 
 3. **Construction of Simplicial Networks with Different Topologies**:
 
-   Generate edges only for average number of linked triangles of a node contained in a simplex ⟨$k_∇$⟩ and average degree ⟨k⟩.
+   Generate edges only for average number of linked triangles of a node contained in a simplex ⟨$$ \langle k_\nabla \rangle $$⟩ and average degree ⟨k⟩.
    
