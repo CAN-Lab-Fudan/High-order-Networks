@@ -119,6 +119,6 @@ Follow these steps to run the tool:
    * **Output**:
      * Number of infected nodes over time for each run and estimated from the tail average of I(t)/N.
 
-<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Epidemic%20outcomes.jpg" width="950px">
+<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Epidemic%20outcomes.jpg" width="750px">
    
    
