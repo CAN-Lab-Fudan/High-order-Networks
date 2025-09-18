@@ -76,12 +76,12 @@ Follow these steps to run the tool:
    python enumerate_simplices.py
    ```
    
-  * **Intput**:
-    * Edges: list/iterable of undirected edges (u, v).
-    * Triangles: list of base triangles (a, b, c) already found (sorted or not).
+   * **Intput**:
+     * Edges: list/iterable of undirected edges (u, v).
+     * Triangles: list of base triangles (a, b, c) already found (sorted or not).
 
-  * **Output**:
-    * Dict node -> List[triangle]. Each triangle appears once per node by default
+   * **Output**:
+     * Dict node -> List[triangle]. Each triangle appears once per node by default
 
 3. **Construction of Simplicial Networks with Different Topologies**:
 
