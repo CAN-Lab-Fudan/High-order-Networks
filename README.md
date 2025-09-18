@@ -12,7 +12,7 @@ In this work, we propose a **higher-order** epidemic model that:
 * Captures the coexistence of interacting groups and their dynamic effects.
 * Provides a solvable network model capable of showing bistable regions and epidemic thresholds.
 
-Our paper is available at this link [this link](https://ieeexplore.ieee.org/document/11145328). Citations are welcome.
+Our paper is available at [this link](https://ieeexplore.ieee.org/document/11145328). Citations are welcome.
 
 ```bibtex
 @ARTICLE{11145328,
