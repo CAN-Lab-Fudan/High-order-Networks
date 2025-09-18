@@ -23,4 +23,5 @@ Our paper is available at this link [this link](https://ieeexplore.ieee.org/docu
   keywords={Epidemics;Mathematical models;Analytical models;Aerodynamics;Numerical models;Diseases;Couplings;Tensors;Silicon;Nonlinear dynamical systems;Epidemic spreading;higher order structure;simplicial network;state consistency},
   doi={10.1109/TSMC.2025.3601832}}
 ```
-
+### 1.2 Key Features
+<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.jpg" width="650px">
