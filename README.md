@@ -31,3 +31,32 @@ Our tool includes the following core functionalities:
 * **Simulations**: Monte Carlo experiments confirm phase transitions and bistability due to higher-order interactions.
 * **Inter-simplex Interactions**: Show that allowing interactions between different groups lowers the epidemic threshold and enlarges the bistable region.
 * **Practical Insight**: Epidemic dynamics are highly sensitive to the density and location of initially infected nodes.
+
+### 1.3 How to Run
+#### 1) Prerequisites:
+* Python 3.8 or later.
+* Required libraries: ``networkx``, ``numpy``, ``matplotlib``, ``math``, ``random``  (``install with pip install networkx, numpy, matplotlib, math, random``).
+
+#### 2) Setup
+Clone or download this repository:
+```bash
+git clone https://github.com/CAN-Lab-Fudan/Higher-order-Networks/tree/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks.git
+```
+
+#### 3) Running the Scripts:
+
+Follow these steps to run the tool:
+
+1. **Identify higher-order structures in the network**:
+
+   Enumerate all cliques (simplices) in an undirected graph, from edges (2-cliques) to higher-order (triangles, tetrahedra, …).1.2. Identify all inter-group interactions among higher-order structures
+
+   Run the following command:
+
+   ```Python
+   python enumerate_simplices.py
+   ```
+   * **Intput**: list/iterable of undirected edges (u, v) (int), u != v.
+      
+   * **Output**: Cliques_by_k: dict mapping k (nodes) → list of k-node cliques (sorted tuples).
+  
