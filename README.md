@@ -24,4 +24,4 @@ Our paper is available at this link [this link](https://ieeexplore.ieee.org/docu
   doi={10.1109/TSMC.2025.3601832}}
 ```
 ### 1.2 Key Features
-<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.jpg" width="650px">
+<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.jpg" width="950px">
