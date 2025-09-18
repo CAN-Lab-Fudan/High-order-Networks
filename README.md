@@ -1,5 +1,8 @@
 # Higher-order-Networks
 
+![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg) ![Python Version](https://img.shields.io/badge/python-%3E%3D%203.7-blue.svg) 
+ ![License](https://img.shields.io/badge/license-Apache%202.0-green.svg) ![Platform](https://img.shields.io/badge/platform-win%20%7C%20macos%20%7C%20linux-yellow.svg)
+
 ## 1. Higher-order Epidemic Spreading in Simplicial Networks
 ### 1.1 Background Information
 Epidemics do not only spread through simple pairwise contacts (like families or colleagues), but also through group interactions such as classrooms, workplaces, or communities. These higher-order structures can be modeled using simplicial complexes, which capture multi-node interactions beyond traditional network edges.
