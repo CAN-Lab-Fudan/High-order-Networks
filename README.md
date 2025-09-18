@@ -27,7 +27,7 @@ Our paper is available at [this link](https://ieeexplore.ieee.org/document/11145
   doi={10.1109/TSMC.2025.3601832}}
 ```
 ### 1.2 Key Features
-<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.jpg" width="950px">
+<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.png" width="950px">
 
 Our tool includes the following core functionalities:
 * **Theoretical Analysis**: Derived epidemic thresholds and bistable regions in various simplicial networks (random regular, simplex-lattice, star, and heterogeneous).
@@ -119,6 +119,6 @@ Follow these steps to run the tool:
    * **Output**:
      * Number of infected nodes over time for each run and estimated from the tail average of I(t)/N.
 
-<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Epidemic%20outcomes.jpg" width="750px">
+<img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Epidemic%20outcomes.PNG" width="750px">
    
    
