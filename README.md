@@ -59,7 +59,31 @@ Follow these steps to run the tool:
    ```Python
    python enumerate_simplices.py
    ```
-   * **Intput**: list/iterable of undirected edges (u, v) (int), u != v.
+   
+   * **Intput**:
+     * Edges: list/iterable of undirected edges (u, v) (int), u != v.
       
-   * **Output**: Cliques_by_k: dict mapping k (nodes) → list of k-node cliques (sorted tuples).
-  
+   * **Output**:
+     * Cliques_by_k: dict mapping k (nodes) → list of k-node cliques (sorted tuples).
+
+2. **Identify inter-group interactions among higher-order structures**:
+
+   For each node, list the higher-order neighbor triangles reachable via its incident edges, under intersection-aware semantics.
+
+   Run the following command:
+
+   ```Python
+   python enumerate_simplices.py
+   ```
+   
+  * **Intput**:
+    * Edges: list/iterable of undirected edges (u, v).
+    * Triangles: list of base triangles (a, b, c) already found (sorted or not).
+
+  * **Output**:
+    * Dict node -> List[triangle]. Each triangle appears once per node by default
+
+3. **Construction of Simplicial Networks with Different Topologies**:
+
+   Generate edges only for average number of linked triangles of a node contained in a simplex ⟨k_∇⟩ and average degree ⟨k⟩.
+   
