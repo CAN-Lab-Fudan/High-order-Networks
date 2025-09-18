@@ -25,3 +25,9 @@ Our paper is available at this link [this link](https://ieeexplore.ieee.org/docu
 ```
 ### 1.2 Key Features
 <img src="https://github.com/CAN-Lab-Fudan/Higher-order-Networks/blob/master/Higher-order%20Epidemic%20Spreading%20in%20Simplicial%20Networks/Key%20Features.jpg" width="950px">
+
+Our tool includes the following core functionalities:
+* **Theoretical Analysis**: Derived epidemic thresholds and bistable regions in various simplicial networks (random regular, simplex-lattice, star, and heterogeneous).
+* **Simulations**: Monte Carlo experiments confirm phase transitions and bistability due to higher-order interactions.
+* **Inter-simplex Interactions**: Show that allowing interactions between different groups lowers the epidemic threshold and enlarges the bistable region.
+* **Practical Insight**: Epidemic dynamics are highly sensitive to the density and location of initially infected nodes.
